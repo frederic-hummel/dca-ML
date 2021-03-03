@@ -1,0 +1,2 @@
+# dca-ML
+This repository contains code developed during my Master thesis in the field of protein folding. The goal was to predict amino-acid contacts in proteins, based purely on statistical data from multiple sequence alignemnts. The most powerful tool here is the pseudo-likelihood maximization used for the so-called Direct Coupling Analysis. That's basically a classic ML approach to solve a physical model with many parameters.
